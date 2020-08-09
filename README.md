@@ -17,16 +17,8 @@
         </a>
         <br>
         <br>
-        <table width="80%">
-            <tr>
-                <td>
-                    <img width="322" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=vue" />
-                </td>
-                <td>
-                    <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edurodriguesdias&repo=julia_is_hungry_app&theme=vue" />
-                </td>
-            </tr>
-        </table>
+        <img width="322" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=vue" />
+        <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edurodriguesdias&repo=julia_is_hungry_app&theme=vue" />
     </div>
 </center>
 
