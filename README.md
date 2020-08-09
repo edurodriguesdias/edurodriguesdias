@@ -1,6 +1,7 @@
 <center>
     <div align="center">
         <h3>Hi there, I'm Eduardo! 👋</h3>
+        <p></p>
         <p align="center">
           <a target="_blank" href="https://twitter.com/edudiasdev">Twitter</a> •
           <a target="_blank" href="https://www.linkedin.com/in/eduardo-rodrigues-dev">LinkedIn</a> •
