@@ -1,4 +1,4 @@
-## Hello, everyone! <img src="https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/hand-hi.gif" width="30px">
+## Hello, everyone! <img src="https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/hand-up.gif" width="30px">
 
 <img align='right' src='https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/github_wall.gif' width='200'>
 
@@ -8,9 +8,7 @@
 
 I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and automations. I'm currently work as back-end developer and keep studying another skills to improve my self.
 
-## 💻 Technologies
-
-Some technologies that i have been worked or studied
+## 💻 Some technologies that i have been worked or studied
 
 - Some projects front-end development using **Vue.js**
 - Cloud using **Oracle, AWS and Azure**
