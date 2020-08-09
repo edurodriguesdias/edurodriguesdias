@@ -3,7 +3,7 @@
 <img align='right' src='https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/github_wall.gif' width='200'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Dias%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-dev)](https://www.linkedin.com/in/eduardo-rodrigues-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardo@hypercodetech.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hypercodetech.com.br)](mailto:hypercodetech.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-eduardo@hypercodetech.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardo@hypercodetech.com.br)](mailto:eduardo@hypercodetech.com.br)
 ![GitHub followers](https://img.shields.io/github/followers/edurodriguesdias?style=social)
 
 I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and automations. I'm currently work as back-end developer and keep studying another skills to improve my self.
