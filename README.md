@@ -20,10 +20,10 @@
         <table>
             <tr>
                 <td>
-                    <img width="292" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=radical" />
+                    <img width="322" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=dracula" />
                 </td>
                 <td>
-                    <img width="413" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+                    <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edurodriguesdias&repo=julia_is_hungry_app&theme=dracula" />
                 </td>
             </tr>
         </table>
