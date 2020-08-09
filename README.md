@@ -1,6 +1,6 @@
-## Hello, everyone! <img src="https://raw.githubusercontent.com/edurodriguesdias/edurodriguesdias/master/assets/hand-hi.gif" width="30px">
+## Hello, everyone! <img src="https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/hand-hi.gif" width="30px">
 
-<img align='right' src='https://raw.githubusercontent.com/edurodriguesdias/edurodriguesdias/master/assets/github_wall.gif' width='200'>
+<img align='right' src='https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/github_wall.gif' width='200'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Dias%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-dev)](https://www.linkedin.com/in/eduardo-rodrigues-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardo@hypercodetech.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hypercodetech.com.br)](mailto:hypercodetech.com.br)
@@ -15,6 +15,8 @@ Some technologies that i have been worked or studied
 - Some projects front-end development using **Vue.js**
 - Cloud using **Oracle, AWS and Azure**
 - Backend development using **Laravel, Lumen and Node.js**
+
+##
 <center>
     <div align="center">
         <br />
