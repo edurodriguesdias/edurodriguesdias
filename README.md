@@ -1,14 +1,15 @@
 <center>
-<table style="table-layout:fixed;">
-    <tr>
-        <td>
-            <img class="left-item most-user-languages" style="width: 350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html,C++&count_private=true&show_icons=true&theme=prussian"/>
-        </td>
-        <td align="left">
-            <img class="right-item" style="height: 68.4px;width: 199px;" src="https://github-readme-stats.vercel.app/api/pin/?username=edurodriguesdias&repo=iweather_ionic_app&theme=prussian"/><br>
-            <img class="right-item" style="height: 68.4px;width: 199px;" src="https://github-readme-stats.vercel.app/api/pin/?username=edurodriguesdias&repo=iweather_ionic_app&theme=prussian"/><br>
-            <img class="right-item" style="height: 68.4px;width: 199px;" src="https://github-readme-stats.vercel.app/api/pin/?username=edurodriguesdias&repo=iweather_ionic_app&theme=prussian"/><br>
-        </td>
-    </tr>
-</table>
+    <div align="center">
+        <h3>Hi there, I'm Eduardo! 👋</h3>
+        <p align="center">
+          <a target="_blank" href="https://twitter.com/edudiasdev">Twitter</a> •
+          <a target="_blank" href="https://www.linkedin.com/in/eduardo-rodrigues-dev">LinkedIn</a> •
+          <a target="_blank" href="https://medium.com/@eduardorodrigues_58172">Medium</a>
+        </p>
+        <br />
+        <br />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+        <img src="https://github-readme-stackoverflow.vercel.app/?userID=8968206&theme=dark" />
+      </div>
 </center>
