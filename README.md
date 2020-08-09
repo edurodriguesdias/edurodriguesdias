@@ -17,7 +17,7 @@
         </a>
         <br>
         <br>
-        <table>
+        <table width="80%">
             <tr>
                 <td>
                     <img width="322" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=dracula" />
@@ -29,3 +29,4 @@
         </table>
     </div>
 </center>
+
