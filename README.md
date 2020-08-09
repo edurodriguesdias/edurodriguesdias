@@ -1,12 +1,22 @@
+## Hello, everyone! <img src="https://raw.githubusercontent.com/edurodriguesdias/edurodriguesdias/master/assets/hand-hi.gif" width="30px">
+
+<img align='right' src='https://raw.githubusercontent.com/edurodriguesdias/edurodriguesdias/master/assets/github_wall.gif' width='200'>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Dias%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-dev)](https://www.linkedin.com/in/eduardo-rodrigues-dev/)
+[![Gmail Badge](https://img.shields.io/badge/-eduardo@hypercodetech.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hypercodetech.com.br)](mailto:hypercodetech.com.br)
+![GitHub followers](https://img.shields.io/github/followers/edurodriguesdias?style=social)
+
+I'm Eduardo Dias, brazilian love back-end developement, web, mobile and automations. I'm currently work as back-end developer and keep studying others skills to improve my self.
+
+## 💻 Technologies
+
+Some technologies that i have been worked or studied
+
+- Some projects front-end development using **Vue.js**
+- Cloud using **Oracle, AWS and Azure**
+- Backend development using **Laravel, Lumen and Node.js**
 <center>
     <div align="center">
-        <h3>Hi there, I'm Eduardo! 👋</h3>
-        <p></p>
-        <p align="center">
-          <a target="_blank" href="https://twitter.com/edudiasdev">Twitter</a> •
-          <a target="_blank" href="https://www.linkedin.com/in/eduardo-rodrigues-dev">LinkedIn</a> •
-          <a target="_blank" href="https://medium.com/@eduardorodrigues_58172">Medium</a>
-        </p>
         <br />
         <br />
         <br />
