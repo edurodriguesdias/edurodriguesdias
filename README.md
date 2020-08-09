@@ -9,7 +9,7 @@
         <br />
         <br />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
-        <img src="https://github-readme-stackoverflow.vercel.app/?userID=8968206&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&hide=stars&show_icons=true&line_height=45&theme=vue&include_all_commits=true" />
+        <img src="https://github-readme-stackoverflow.vercel.app/?userID=8968206&theme=light" />
       </div>
 </center>
