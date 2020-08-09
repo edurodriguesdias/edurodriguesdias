@@ -25,7 +25,7 @@ Some technologies that i have been worked or studied
             <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&line_height=45&theme=vue&include_all_commits=true" />
         </a>
         <a href="https://stackoverflow.com/users/8968206/eduardo-rodrigues">
-            <img src="https://github-readme-stackoverflow.vercel.app/?userID=8968206&theme=dark" />
+            <img src="https://github-readme-stackoverflow.vercel.app/?userID=8968206&theme=light" />
         </a>
         <br>
         <br>
