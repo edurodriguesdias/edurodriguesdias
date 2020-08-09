@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eduardo@hypercodetech.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hypercodetech.com.br)](mailto:hypercodetech.com.br)
 ![GitHub followers](https://img.shields.io/github/followers/edurodriguesdias?style=social)
 
-I'm Eduardo Dias, brazilian love back-end developement, web, mobile and automations. I'm currently work as back-end developer and keep studying others skills to improve my self.
+I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and automations. I'm currently work as back-end developer and keep studying another skills to improve my self.
 
 ## 💻 Technologies
 
@@ -16,7 +16,6 @@ Some technologies that i have been worked or studied
 - Cloud using **Oracle, AWS and Azure**
 - Backend development using **Laravel, Lumen and Node.js**
 
-##
 <center>
     <div align="center">
         <br />
