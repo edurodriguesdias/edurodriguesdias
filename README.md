@@ -20,15 +20,12 @@ I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and au
         <br />
         <br />
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&line_height=45&theme=vue&include_all_commits=true" />
-        </a>
-        <a href="https://stackoverflow.com/users/8968206/eduardo-rodrigues">
-            <img src="https://github-readme-stackoverflow.vercel.app/?userID=8968206&theme=light" />
+            <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&line_height=45&theme=vue&include_all_commits=true&count-private=true" />
         </a>
         <br>
         <br>
-        <img width="322" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=vue" />
-        <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edurodriguesdias&repo=julia_is_hungry_app&theme=vue" />
+        <img width="322" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=vue&count-private=true" />
+        <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edurodriguesdias&repo=julia_is_hungry_app&theme=vue&count-private=true" />
     </div>
 </center>
 
