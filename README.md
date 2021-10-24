@@ -24,8 +24,6 @@ I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and au
         </a>
         <br>
         <br>
-        <img width="322" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edurodriguesdias&hide=html&layout=compact&theme=vue&count-private=true" />
-        <img width="390" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edurodriguesdias&repo=julia_is_hungry_app&theme=vue&count-private=true" />
     </div>
 </center>
 
