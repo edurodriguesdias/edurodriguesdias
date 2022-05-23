@@ -1,7 +1,5 @@
 ## Hello, everyone! <img src="https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/hand-up.gif" width="30px">
 
-<img align='right' src='https://github.com/edurodriguesdias/edurodriguesdias/blob/master/assets/github_wall.gif' width='200'>
-
 [![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Dias%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-dev)](https://www.linkedin.com/in/eduardo-rodrigues-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardo@hypercodetech.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardo@hypercodetech.com.br)](mailto:eduardo@hypercodetech.com.br)
 ![Twitter Follow](https://img.shields.io/twitter/follow/edudiasdev?label=Follow&style=social)
