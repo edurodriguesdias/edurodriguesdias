@@ -3,7 +3,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/edudiasdev?label=Follow&style=social)
 
 ### Hi there!
-<p>I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and automations. I'm currently work as back-end developer and keep studying another skills to improve my self.</p>
+<p>I'm Eduardo Dias, brazilian that loves back-end development, web, mobile and technologies in general. 
+  I'm currently work as back-end developer and keep studying another skills to improve my soft and hard skills.</p>
 
 <div align="center">
   <a href="https://github.com/edurodriguesdias">
