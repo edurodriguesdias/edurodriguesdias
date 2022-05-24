@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/edurodriguesdias">
-  <img title="Luis Felipe" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img title="Luis Felipe" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=algolia"/>
+  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=algolia"/>
   </a>
 </div>
 <h3>Some stacks that i like or i've been work on</h3>
