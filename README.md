@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/edurodriguesdias">
-  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=algolia"/>
+  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true" />
+  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=shades-of-purple"/>
   </a>
 </div>
 <h3>Some stacks that i like or i've been work on</h3>
@@ -22,10 +22,9 @@
       <img align="center" title="Python" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" title="C" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
       <img align="center" title="LARAVEL" alt="LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-      <img align="center" title="ZF2" alt="ZF2" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zend/zend-plain.svg">
       <img align="center" title="WP" alt="WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
       <img align="center" title="ZF2" alt="ZF2" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/zend/zend-plain.svg">
-      <img align="center" title="ZF2" alt="ZF2" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
      <img align="center" title="Ubuntu" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
     <img align="center" title="Terraform" alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">    
     <img align="center" title="Sequelize" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
