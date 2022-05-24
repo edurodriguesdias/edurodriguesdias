@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eduardodias.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardodias.dev@gmail.com)](mailto:eduardodias.dev@gmail.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/edudiasdev?label=Follow&style=social)
 
-### Hi there!
+### Hi there! 👋
 <p>I'm Eduardo Dias, brazilian that loves back-end development, web, mobile and technologies in general. 
   I'm currently work as back-end developer and keep studying another skills to improve my soft and hard skills.</p>
 
