@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/edurodriguesdias">
-  <img title="Eduardo Dias" height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img title="Eduardo Dias" height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <img title="Eduardo Dias" height="230px" align="left" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img title="Eduardo Dias" height="230px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </a>
 
   <h2>Achiviments</h2>
