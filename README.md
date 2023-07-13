@@ -1,8 +1,8 @@
-[![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Dias%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-dev)](https://www.linkedin.com/in/eduardo-rodrigues-dev/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Dias%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-dev)](https://www.linkedin.com/in/eduardo-rodrigues-dev)
 [![Gmail Badge](https://img.shields.io/badge/-eduardodias.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardodias.dev@gmail.com)](mailto:eduardodias.dev@gmail.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/edudiasdev?label=Follow&style=social)
 
-<p><b>Hey there!</b> I'm Eduardo Dias, a Brazilian back-end developer with a passion for web, mobile, and technology in general. Currently working as a back-end developer, I am constantly expanding my skills to enhance both my technical abilities and soft skills. I love exploring new tools and frameworks to stay up-to-date with the latest industry trends. Collaboration and effective communication are key to me, as I enjoy working in teams, sharing ideas, and creating a positive and productive work environment. Feel free to check out my GitHub repositories to see some of my projects or my <a href="https://www.linkedin.com/in/eduardo-rodrigues-dev/">LinkeIn</a></p>
+<p><b>Hey there!</b> I'm Eduardo Dias, a Brazilian back-end developer with a passion for web, mobile, and technology in general. Currently working as a back-end developer, I am constantly expanding my skills to enhance both my technical abilities and soft skills. I love exploring new tools and frameworks to stay up-to-date with the latest industry trends. Collaboration and effective communication are key to me, as I enjoy working in teams, sharing ideas, and creating a positive and productive work environment. Feel free to check out my GitHub repositories to see some of my projects or my <a href="https://www.linkedin.com/in/edias-developer">LinkeIn</a></p>
 
 <div align="center">
   <a href="https://github.com/edurodriguesdias">
