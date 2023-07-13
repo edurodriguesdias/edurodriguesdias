@@ -2,18 +2,23 @@
 [![Gmail Badge](https://img.shields.io/badge/-eduardodias.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardodias.dev@gmail.com)](mailto:eduardodias.dev@gmail.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/edudiasdev?label=Follow&style=social)
 
-### Hi there! 👋
-<p>I'm Eduardo Dias, brazilian that loves back-end development, web, mobile and technologies in general. 
-  I'm currently work as back-end developer and keep studying another skills to improve my soft and hard skills.</p>
+<p><b>Hey there!</b> I'm Eduardo Dias, a Brazilian back-end developer with a passion for web, mobile, and technology in general. Currently working as a back-end developer, I am constantly expanding my skills to enhance both my technical abilities and soft skills. I love exploring new tools and frameworks to stay up-to-date with the latest industry trends. Collaboration and effective communication are key to me, as I enjoy working in teams, sharing ideas, and creating a positive and productive work environment. Feel free to check out my GitHub repositories to see some of my projects or my <a href="https://www.linkedin.com/in/eduardo-rodrigues-dev/">LinkeIn</a></p>
 
 <div align="center">
   <a href="https://github.com/edurodriguesdias">
-  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true" />
-  <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=shades-of-purple"/>
+  <img title="Eduardo Dias" height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img title="Eduardo Dias" height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </a>
+
+  <h2>Achiviments</h2>
+  <div style="display: inline-flex; align:'center'">
+      <img align="center" title="PHP" alt="PHP" height="150" width="150" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+  </div>
 </div>
-<h3>Some stacks that i like or i've been work on</h3>
-<div style="display: inline-flex; align:"center""><br>
+
+
+<h3>Some technlogies that i've been work with</h3>
+<div style="display: inline-flex; align:'center'"><br>
   <p align="center">
     <a href="https://github.com/edurodriguesdias">
       <img align="center" title="PHP" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
