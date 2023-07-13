@@ -10,15 +10,16 @@
   <img title="Eduardo Dias" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </a>
 
-  <h2>Achiviments</h2>
+  <h2>🏆 Achievements</h2>
   <div style="display: inline-flex; align:'center'">
       <img align="center" title="PHP" alt="PHP" height="150" width="150" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </div>
 </div>
 
 
-<h3>Some technlogies that i've been work with</h3>
-<div style="display: inline-flex; align:'center'"><br>
+<div style="display: inline-flex;" align="center"><br>
+<h2>👷 Technologies that I've worked with</h2>
+
   <p align="center">
     <a href="https://github.com/edurodriguesdias">
       <img align="center" title="PHP" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
