@@ -25,5 +25,4 @@ Let's innovate together!
 </a>
 
 ## 🏆 Achievements
-- [AWS Cloud Practitioner Certification](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-
+- [AWS Cloud Practitioner](https://www.credly.com/badges/004fbad1-90b7-461b-817d-2772868a9d84/public_url)
