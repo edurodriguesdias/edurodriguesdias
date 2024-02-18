@@ -4,11 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-eduardodias.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardodias.dev@gmail.com)](mailto:eduardodias.dev@gmail.com)
 
 ## About Me 🚀
-I'm Eduardo Dias, a dedicated back-end developer deeply immersed in the realms of web, mobile, and technology. My journey in this dynamic field is fueled by an insatiable curiosity and a relentless drive for growth. Currently, I thrive in my role as a back-end developer, where each day presents an opportunity to expand my technical prowess and refine my interpersonal skills.
+I'm Eduardo Dias, a Software Developer with over five years of experience. 
 
-My passion lies in the perpetual exploration of innovative tools and frameworks, ensuring that I remain at the forefront of industry trends. I find joy in embracing challenges head-on, knowing that they pave the path for my continuous evolution. Collaboration and effective communication are foundational to my approach, as I cherish the camaraderie of teamwork, the exchange of ideas, and the cultivation of a vibrant, supportive work environment.
-
-Join me on this exhilarating journey as we harness the power of technology to shape a brighter tomorrow.
+Currently, I specialize in crafting payment solutions for Brazilian customers. I'm also enthusiastic about TypeScript and Golang. 
+Let's innovate together!
 
 ## 🛠️ Tech Stack
 - Programming Languages: PHP, JavaScript, Python, Golang
