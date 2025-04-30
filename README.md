@@ -20,8 +20,6 @@ Let's innovate together!
 <a href="https://github.com/edurodriguesdias">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Eduardo Dias' GitHub Stats" />
 </a>
-<a href="https://github.com/edurodriguesdias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurodriguesdias&layout=compact&langs_count=6&theme=vision-friendly-dark" alt="Top Languages" />
 </a>
 
 ## 🏆 Achievements
